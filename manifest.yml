@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ayudame-3
+   random-route: true
+   memory: 128M
